@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+transformers
+pdfplumber
+pandas
+torch
+accelerate
+bitsandbytes
+huggingface_hub
